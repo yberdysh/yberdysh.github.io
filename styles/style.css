@@ -1,0 +1,21 @@
+body {
+	background-color: #020204;
+}
+
+.banner {
+	/*background-size: cover;*/
+}
+.banner-content {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: white;
+	text-align: center;
+}
+
+.banner-content a {
+	color: #679EAF;
+}
+
+
+
